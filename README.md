@@ -4,7 +4,7 @@
 
 ## Features
 
-- [ ] Website spider
+- [ ] Website spider (robot.txt, ecc.)
 - [ ] Website crawler
 - [ ] XSS tester: Reflected, Stored, DOM Based, Blind
 - [ ] Bruteforcing weak passwords
@@ -12,6 +12,7 @@
 - [ ] Stresser
 - [ ] LFI tester
 - [ ] IDOR tester
+- [ ] Server Footprinting
  
 
 ### Goal
