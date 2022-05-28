@@ -5,13 +5,13 @@
 ## Features
 
 - [ ] Website spider
-- [ ] LFI tester
-- [ ] IDOR tester
-- [ ] SQLi tester: In-Band SQLi, Blind SQLi (auth bypass), Blind SQLi (Boolean based), Blind SQLi (Time Based),
+- [ ] Website crawler
 - [ ] XSS tester: Reflected, Stored, DOM Based, Blind
 - [ ] Bruteforcing weak passwords
-- [ ] Website crawler
+- [ ] SQLi tester: In-Band SQLi, Blind SQLi (auth bypass), Blind SQLi (Boolean based), Blind SQLi (Time Based)
 - [ ] Stresser
+- [ ] LFI tester
+- [ ] IDOR tester
  
 
 ### Goal
