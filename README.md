@@ -1,6 +1,6 @@
 ![cover](brand-assets/cover.png)
-
-<h1>robot_ware/ <img src="brand-assets/robotware-cropped.svg" width="70"/></h1>
+ 
+<h1>Robot_ware/</h1>
 
 ## Features
 
